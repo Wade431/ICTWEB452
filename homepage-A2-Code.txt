@@ -1,0 +1,195 @@
+<!doctype Html>
+<html lang="en">
+
+    <head> 
+        <title> ACB Systems</title>
+            <meta name="Description" content="ACB Systems homepage">
+            <meta name="keywords" content="ACB, ACB systems, IT">
+            <meta name="author" content="Wade Oneil">
+                <style>
+                    h1 {text-align: center;}
+
+                    .topnav {
+                        position: relative;
+                        overflow: hidden;
+                        background-color: rgb(49, 48, 48);
+                    }
+
+                    .topnav a {
+                        float: left;
+                        color: #f2f2f2;
+                        text-align: center;
+                        padding: 18px;
+                        text-decoration: none;
+                        font-size: 20px;
+                    }
+
+                    .topnav a:hover {
+                        background-color: aqua;
+                        color: black;
+                    }
+
+                    .topnav a.active {
+                        background-color: rgb(43, 128, 233);
+                        color: white;
+                    }
+
+                    .topnav-centered a {
+                        float: none;
+                        position: absolute;
+                        top: 50%;
+                        left: 50%;
+                        transform: translate(-50%, -50%);
+                    }
+
+                    .topnav-right {
+                        float: right;
+                    }
+
+                    .headline {
+                        text-align: center;
+                    }
+
+                    .article {
+                        text-align: center;
+                    }
+
+                    .footer {
+                        position: relative;
+                        text-align: center;
+                        background-color: rgb(49, 48, 48);
+                        color: white;
+                        overflow: hidden;
+                    }
+
+                </style>
+    </head>
+
+    <header> 
+        <h1> ACB Systems</h1>
+
+        <!--Navigation bar-->
+        <div class="topnav">
+
+            <!-- Centered link -->
+            <div class="topnav-centered">
+              <a href="#home" class="active">Home</a>
+            </div>
+            
+            <!-- Left-aligned links -->
+            <a href="#services">Services</a>
+            <a href="#Staff">Staff</a>
+            
+            <!-- Right-aligned links -->
+            <div class="topnav-right">
+              <a href="#About">About us</a>
+              <a href="#Contact">Contact</a>
+            </div>
+            
+        </div>
+    </header>
+
+    <body>
+        <br><br>
+        <div class="headline"> 
+            
+            <h2> Headliner </h2>
+            <!-- The main headliner of the business -->   
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et iaculis tellus. Aliquam dictum,
+                mauris non iaculis pretium, augue mi hendrerit ligula,
+                <br>
+                nec eleifend urna nisl ut odio. Sed molestie enim at eros gravida, at consectetur nibh ornare. 
+                Quisque suscipit leo id nunc consectetur posuere.
+                <br>
+                Vestibulum in eros ut nunc placerat congue. Nunc vel ante in nisl venenatis sodales.
+                Etiam feugiat ante non pellentesque efficitur. Aliquam scelerisque, lacus ut sagittis ultrices,
+                <br> 
+                metus elit faucibus ex, blandit aliquet nisi ligula eu nunc. Suspendisse potenti.
+            </p>
+            <p>
+                enim sit amet ligula pharetra placerat. Fusce fermentum lacus nec massa auctor, 
+                sed dignissim ex malesuada. Praesent vulputate dui nec nulla venenatis,
+                sit amet ultrices lorem aliquet.
+                <br>
+                Nulla rutrum magna aliquam ex varius, eget sodales eros lobortis. 
+                Curabitur dapibus commodo elit, vitae feugiat neque tincidunt a. 
+                Donec sodales elit et orci auctor euismod.
+                <br>
+                Nunc pellentesque metus vitae sapien lobortis pretium.
+                Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                Pellentesque iaculis fermentum justo,
+                <br>
+                a luctus mi blandit at. Proin condimentum fringilla enim, 
+                sed scelerisque erat condimentum ac.
+            </p>
+            <p>
+                Orci varius natoque penatibus et magnis dis parturient montes, 
+                nascetur ridiculus mus. Cras aliquam purus tristique, suscipit ex sit amet,
+                <br>
+                vulputate dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ex metus, interdum in pulvinar sed, 
+                imperdiet id velit. In venenatis scelerisque risus,
+                <br>
+                quis ultrices ex laoreet vitae. 
+                Mauris vel elit purus. Mauris maximus erat sed ipsum congue tincidunt.
+                Nunc eget diam non nisl dapibus consectetur sed in neque.
+                <br>
+                Aenean id purus et lacus tincidunt vehicula. Etiam eget pretium felis. Donec turpis nunc, 
+                aliquet id bibendum nec, congue ut tellus. Vivamus imperdiet aliquam aliquet.
+                <br>
+                In hac habitasse platea dictumst. Nam bibendum libero non risus commodo accumsan. 
+                Nunc mollis libero ipsum, gravida commodo magna efficitur et.
+            </p>
+
+        </div> 
+        
+        <div class="article">
+
+            <div class="article1">
+            
+            <h3> Article 1</h3>
+            <!--Placeholder article 1-->
+            Suspendisse potenti. In semper venenatis ligula, ac euismod odio rhoncus eget.<br>
+            Morbi tincidunt velit quis urna cursus, ut ultricies augue tempus.<br>
+            Class aptent taciti sociosqu ad litora torquent per conubia nostra,<br>
+            per inceptos himenaeos. Morbi massa leo, porttitor sed hendrerit et,<br>
+            tincidunt a ipsum. Nunc consectetur nunc id ex tincidunt,<br>
+            ut fringilla tortor viverra. Mauris ut tincidunt diam,<br>
+            eleifend rhoncus risus. 
+            </div>
+
+            <div class="article2">
+            <H3> Article 2</H3>
+            <!--Placeholder article 2-->
+            In blandit tincidunt quam, a rhoncus metus.<br>
+            Vivamus vulputate blandit felis eget tincidunt.<br>
+            Curabitur at turpis efficitur, maximus ipsum quis,<br>
+            posuere ex. Donec commodo elit vitae dolor auctor,<br>
+            id scelerisque enim mollis. Sed ullamcorper vel lorem id ultricies.<br>
+            Cras hendrerit molestie venenatis. Curabitur sem enim,<br>
+            fringilla vitae erat ac, eleifend posuere dui.
+            </div>
+
+            <div class="article3">
+            <h3>Article 3</h3>
+            <!--Placeholder article 3-->
+            Quisque et mauris feugiat, congue lacus id, rutrum dui.<br>
+            Morbi vehicula quam eget sagittis efficitur.<br>
+            Donec sodales varius tellus, Curabitur efficitur lorem quis ante porttitor,<br>
+            a tincidunt ante tincidunt. Duis ac sagittis est.<br>
+            Donec nec felis non mi sagittis iaculis.
+                    <br><br>
+            </div>
+        </div>
+
+    </body>
+
+    <div class="footer">
+        <p>
+             &copy; copyright 2022
+        </p>
+    </div>
+        
+
+
+</html>
